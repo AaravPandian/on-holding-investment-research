@@ -1,0 +1,6 @@
+id,title,published_or_data_date,url,notes
+SEC_20F_2025,On Holding AG FY2025 Form 20-F,2026-03-03,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000008/onholdingag-20251231.htm,"Audited 2023-2025 income statements, channels, regions and cash flows; source of data/historical_financials.csv"
+SEC_Q2_2026,On Q2 2026 earnings release,2026-08-11,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/a26q2-ex993xpressrelease.htm,"Q2 2026 growth, margin, H1, 2026 revenue and profitability guidance; data/q2_2026_snapshot.csv"
+SEC_6K_2026,On H1 2026 interim financial statements,2026-08-11,https://www.sec.gov/Archives/edgar/data/1858985/000185898526000018/onholdingag-20260630_d2.htm,"June 30 2026 Class A and Class B shares outstanding and dilution; 10 B share to 1 A economic equivalence explained in 20-F"
+YCHARTS_PX,ONON historical prices (October 19 2026),2026-10-19,https://ycharts.com/companies/ONON/price,"USD 35.41 October 19 2026 closing reference; NOT LIVE"
+FX_20261019,USD/CHF historic closing rates,2026-10-19,https://www.investing.com/currencies/usd-chf-historical-data,"0.8270 CHF per USD; secondary market-data source; scenario currency input is editable"

@@ -1,0 +1,35 @@
+{
+  "as_of": "2026-10-19",
+  "market_price_usd": 35.41,
+  "usd_chf": 0.8270,
+  "revenue_2026e_chf_m": 3515.0,
+  "class_a_shares_m": 301.715535,
+  "class_b_shares_m": 324.991680,
+  "dilutive_a_awards_m": 1.644629,
+  "dilutive_b_awards_m": 2.493692,
+  "class_b_per_a": 10,
+  "required_equity_return": 0.11,
+  "scenarios": {
+    "Bear": {
+      "growth_2027_2036": [0.10,0.09,0.08,0.07,0.06,0.05,0.045,0.04,0.035,0.03],
+      "exit_ps_2031": 1.7,
+      "exit_ps_2036": 1.4,
+      "ebitda_margin_2031": 0.17,
+      "ebitda_margin_2036": 0.17
+    },
+    "Base": {
+      "growth_2027_2036": [0.20,0.18,0.16,0.14,0.12,0.11,0.10,0.09,0.08,0.07],
+      "exit_ps_2031": 3.0,
+      "exit_ps_2036": 2.5,
+      "ebitda_margin_2031": 0.22,
+      "ebitda_margin_2036": 0.24
+    },
+    "Bull": {
+      "growth_2027_2036": [0.26,0.24,0.22,0.20,0.18,0.17,0.15,0.14,0.12,0.11],
+      "exit_ps_2031": 4.5,
+      "exit_ps_2036": 4.0,
+      "ebitda_margin_2031": 0.26,
+      "ebitda_margin_2036": 0.28
+    }
+  }
+}
